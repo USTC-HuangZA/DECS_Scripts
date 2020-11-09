@@ -1,0 +1,10 @@
+{
+  "ipNum": 15,
+  "fileMaxSize": 100,
+  "fileMinSize": 10,
+  "writeConfig": {
+    "host": "localhost",
+    "port": 9002,
+    "path": "/write-batch"
+  }
+}
